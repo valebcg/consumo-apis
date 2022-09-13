@@ -1,13 +1,99 @@
 body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+  background: url(https://media-exp1.licdn.com/dms/image/C4E12AQGSPeookndjbg/article-cover_image-shrink_600_2000/0/1606744552065?e=2147483647&v=beta&t=vzFTWdsWEpWJ4HmM4VsrukIid1ZcO1XaM5fgXmAr1bo)
+    no-repeat center center fixed;
+  background-size: cover;
+  font-family: "IFC RAILROAD", sans-serif;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+* {
+  margin: 0%;
+  padding: 0%;
+}
+
+.title {
+  text-align: center;
+  margin-bottom: 6rem;
+  margin-top: 1rem;
+  font-family: "Harry Potter", sans-serif;
+  font-size: 5rem;
+}
+
+.character-title {
+  font-size: 1.5rem;
+}
+
+.search {
+  text-align: center;
+}
+
+button {
+  width: 5rem;
+}
+
+.btn-organize {
+  background: black;
+  color: rgb(158, 160, 161);
+  width: 10rem;
+  margin-left: 1rem;
+  padding: 5px;
+  border-radius: 2rem;
+  font-family: "IFC RAILROAD", sans-serif;
+  font-size: 15px;
+}
+
+.container-button {
+  text-align: center;
+}
+
+a {
+  margin-left: 2rem;
+  text-decoration: none;
+  border: solid 1px;
+  padding: 2px;
+  margin-top: 5rem;
+  font-size: 20px;
+  color: red;
+}
+
+.card-result {
+  margin-bottom: 5rem;
+  font-size: 20px;
+}
+
+.container-card {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 5rem;
+  row-gap: 10rem;
+  margin: 5rem;
+}
+
+.card {
+  width: 20rem;
+  height: 20rem;
+  text-align: center;
+  font-size: 20px;
+  border: 3px solid;
+}
+
+.image-card {
+  width: 20.03rem;
+  height: 20.03rem;
+}
+
+.Gryffindor {
+  color: green;
+}
+
+.Slytherin {
+  color: red;
+}
+
+.Hufflepuff {
+  color: orange;
+}
+
+.Ravenclaw {
+  color: white;
 }
