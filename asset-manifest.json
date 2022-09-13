@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/consumo-apis/static/css/main.85c9000a.css",
+    "main.js": "/consumo-apis/static/js/main.2d9ff8ff.js",
+    "index.html": "/consumo-apis/index.html",
+    "main.85c9000a.css.map": "/consumo-apis/static/css/main.85c9000a.css.map",
+    "main.2d9ff8ff.js.map": "/consumo-apis/static/js/main.2d9ff8ff.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.85c9000a.css",
+    "static/js/main.2d9ff8ff.js"
+  ]
+}
