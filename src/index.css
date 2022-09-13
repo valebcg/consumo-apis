@@ -1,3 +1,15 @@
+@font-face {
+  font-family: 'Harry Potter';
+  src: url(./assets/font/HARRP___.TTF)format('truetype');
+  font-style: normal;
+  font-weight: normal;
+  font-family: 'IFC RAILROAD';
+  src: url(./assets/font/IFC\ RAILROAD\ 2.ttf)format('truetype');
+  font-style: normal;
+  font-weight: normal;
+}
+
+
 body {
   background: url(https://media-exp1.licdn.com/dms/image/C4E12AQGSPeookndjbg/article-cover_image-shrink_600_2000/0/1606744552065?e=2147483647&v=beta&t=vzFTWdsWEpWJ4HmM4VsrukIid1ZcO1XaM5fgXmAr1bo)
     no-repeat center center fixed;
