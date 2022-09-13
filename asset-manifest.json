@@ -1,13 +1,15 @@
 {
   "files": {
-    "main.css": "/consumo-apis/static/css/main.85c9000a.css",
+    "main.css": "/consumo-apis/static/css/main.2c1dc3ec.css",
     "main.js": "/consumo-apis/static/js/main.2d9ff8ff.js",
+    "static/media/IFC RAILROAD 2.ttf": "/consumo-apis/static/media/IFC RAILROAD 2.a48f5961f5442e379ab0.ttf",
+    "static/media/HARRP___.TTF": "/consumo-apis/static/media/HARRP___.61090fcb66b8942c5664.TTF",
     "index.html": "/consumo-apis/index.html",
-    "main.85c9000a.css.map": "/consumo-apis/static/css/main.85c9000a.css.map",
+    "main.2c1dc3ec.css.map": "/consumo-apis/static/css/main.2c1dc3ec.css.map",
     "main.2d9ff8ff.js.map": "/consumo-apis/static/js/main.2d9ff8ff.js.map"
   },
   "entrypoints": [
-    "static/css/main.85c9000a.css",
+    "static/css/main.2c1dc3ec.css",
     "static/js/main.2d9ff8ff.js"
   ]
 }
