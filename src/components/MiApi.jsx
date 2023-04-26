@@ -5,7 +5,7 @@ const MiApi = () => {
   const [info, setInfo] = useState([]);
 
   const characters = async () => {
-    const url = "https://hp-api.herokuapp.com/api/characters/";
+    const url = "https://hp-api.onrender.com/api/characters/staff";
     const response = await fetch(url);
     const data = await response.json();
 
