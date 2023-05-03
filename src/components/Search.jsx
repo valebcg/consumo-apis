@@ -31,7 +31,7 @@ const Search = ({ info}) => {
             onChange={(e) => setSearch(e.target.value)}
           ></input>
           <button type="submit">Buscar</button>
-          <a href="https://valebcg.github.io/consumo-apis/">Volver</a>
+          <a href="https://consumo-api-react.netlify.app/">Volver</a>
         </form>
 
         <div className="container-card">
